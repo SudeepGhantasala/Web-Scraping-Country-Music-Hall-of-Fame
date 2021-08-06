@@ -1,8 +1,9 @@
 ## Web Scraping the Country Music Hall of Fame
 
-In this exercise, your objective is to use BeautifulSoup in order to obtain a dataset of all Country Music Hall of Fame inductees. This information is available at https://countrymusichalloffame.org/hall-of-fame/members/, but you will take the contents of this website and convert it into a pandas DataFrame.
+Used BeautifulSoup in Python to webscrape and obtain a dataset of all Country Music Hall of Fame inductees. Answered questions as part of an assignment at Nashville Software School.
 
-The website splits the members across multiple pages, but start by just working on the first page. Later on in the exercise, you'll take what you've done for the first page and apply it across all pages.
+This project involved webscraping across multiple pages and can be found at the following link: https://countrymusichalloffame.org/hall-of-fame/members/ 
+
 
 1. Start by using either the inspector or by viewing the page source. Can you identify a tag that might be helpful for finding the names of all inductees? Make use of this to create a list containing just the names of each inductee.
 
